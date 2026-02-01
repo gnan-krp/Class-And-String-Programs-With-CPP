@@ -53,30 +53,34 @@ Examples:
 ## ▶️ How to Run  
 
 ### 💻 C / C++
-````bash
-g++ program.cpp
-./a.out
 
 ---
 
-🎯 
+## ✨ Perfect for
 
-✨ Perfect for:  
-- 📚 College & academic practice  
+- 🎓 College & academic practice  
 - 🧪 Lab programs  
 - 🧠 Strengthening fundamentals  
 - 📝 Exam preparation  
 
-👨‍💻 Author  
-**Gnan Parekh**  
-🌐 GitHub: Add your profile link here  
+---
 
-⭐ Support  
-If you find this repository helpful:  
-- 👉 Star ⭐ the repo  
-- 👉 Fork 🍴 it  
-- 👉 Share 🔁 with friends  
+## 👤 Author
 
-Happy Coding! 💻🔥
+**Gnan Parekh**
+
+🔗 GitHub: Add your profile link here
 
 ---
+
+## ⭐ Support
+
+If you find this repository helpful:
+
+- ⭐ Star the repo  
+- 🍴 Fork it  
+- 🔁 Share with friends  
+
+---
+
+**Happy Coding! 🚀🔥**
