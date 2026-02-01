@@ -1,14 +1,5 @@
 # 📘 Class & String Programs  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/gnan-krp/Class-And-String-Programs-With-CPP
-?color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/gnan-krp/Class-And-String-Programs-With-CPP
-?color=green)
-![GitHub stars](https://img.shields.io/github/stars/gnan-krp/Class-And-String-Programs-With-CPP
-?style=social)
-![GitHub forks](https://img.shields.io/github/forks/gnan-krpRClass-And-String-Programs-With-CPP
-?style=social)
-
 🚀 A beginner-friendly repository containing **Class-based** and **String-based programs** for learning core programming and Object-Oriented concepts.
 
 ---
@@ -62,7 +53,9 @@ Examples:
 ## ▶️ How to Run  
 
 ### 💻 C / C++
-```bash
+````bash
+g++ program.cpp
+./a.out
 
 ---
 
@@ -85,3 +78,5 @@ If you find this repository helpful:
 - 👉 Share 🔁 with friends  
 
 Happy Coding! 💻🔥
+
+---
