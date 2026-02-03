@@ -22,6 +22,6 @@ int main()
     cout << "Status Now: " << endl;
     display(str1);
 
-    return 0;
+    return 0; 
 
 }
